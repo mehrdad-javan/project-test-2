@@ -188,8 +188,6 @@ Initialize:
 
 ## Technical Stack & Requirements
 
-### Technologies Used
-
 * **Java 25**
 * **Spring Boot 4.x**
 * **Spring Data JPA** (Hibernate)
