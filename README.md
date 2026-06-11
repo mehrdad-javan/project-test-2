@@ -207,7 +207,6 @@ Initialize:
 Before running the application, ensure you have the following installed:
 
 * [JDK 25](https://www.oracle.com/java/technologies/downloads/)
-* [Maven](https://maven.apache.org/download.cgi)
 * [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 ---
