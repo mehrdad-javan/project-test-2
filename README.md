@@ -218,14 +218,11 @@ Before running the application, ensure you have the following installed:
 
 The project uses Docker Compose to manage the MySQL database and Redis server.
 
-Run the following command in the project root:
+Make sure **Docker Desktop is running**, then open a terminal in the **project root directory** (where `docker-compose.yml` is located) and run:
 
 ```bash
 docker-compose up -d
 ```
-
-* **MySQL:** Port `3307`
-* **Redis:** Port `6379`
 
 ### 2. Run the Application
 
