@@ -229,11 +229,8 @@ docker-compose up -d
 
 ### 2. Run the Application
 
-Navigate to the `subscription-api` directory and run:
+Navigate to the `subscription-api` directory and run `SubscriptionApiApplication.java`
 
-```bash
-mvn spring-boot:run
-```
 
 ### 3. API Documentation
 
